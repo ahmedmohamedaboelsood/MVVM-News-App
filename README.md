@@ -8,8 +8,8 @@ The News App is a Swift-based mobile application that provides users with a user
 - Main Screen with resizeable cell to fit the news
 
 ## Screenshots
- 
- <img src=(https://github.com/ahmedmohamedaboelsood/MVVM-News-App/assets/97084704/e6688aac-ebb0-46c9-8620-75397cf772a7) width="150" height="300">
+
+ <img src="https://github.com/ahmedmohamedaboelsood/MVVM-News-App/assets/97084704/7d6ac076-5079-43f0-bb98-20220a3ed60b" width="150" height="300">
 
 ## Architecture
 
