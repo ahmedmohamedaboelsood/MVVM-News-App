@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        setupNavigationController()
         return true
     }
 
@@ -77,5 +77,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
     }
 
+    func setupNavigationController(){
+        UINavigationBar.appearance().barTintColor = UIColor.darkGray
+        UINavigationBar.appearance().largeTitleTextAttributes = [NSAttributedString.Key.foregroundColor:UIColor.white]
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor:UIColor.white]
+    }
 }
 
