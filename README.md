@@ -9,7 +9,8 @@ The News App is a Swift-based mobile application that provides users with a user
 
 ## Screenshots
  
- 
+ ![simulator_screenshot_98D78B21-B7E0-4A67-B014-5138FBF683BB](https://github.com/ahmedmohamedaboelsood/MVVM-News-App/assets/97084704/e6688aac-ebb0-46c9-8620-75397cf772a7)
+
 
 ## Architecture
 
